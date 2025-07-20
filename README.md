@@ -1,0 +1,1 @@
+Visit http://localhost:8000/docs after running `docker-compose up --build` to test endpoints using Swagger UI.
